@@ -11,6 +11,8 @@ Fork of [reveal.js](https://github.com/hakimel/reveal.js) to make it easy to
 - Run locally `$ grunt serve`
 - Create slides in `content.md`
 
+(requires npm)
+
 To deploy to Heroku:
 ```
 heroku create
