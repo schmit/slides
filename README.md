@@ -20,3 +20,11 @@ git push heroku master
 ```
 
 Based on [Creating Slick HTML Presentations Using reveal.js](http://www.sitepoint.com/creating-slick-html-presentations-using-reveal-js/)
+
+### Notes
+
+To be able to run `grunt`, you might have to install the grunt-cli:
+```
+npm install -g grunt-cli
+```
+See the link above, and its link, for pointers.
