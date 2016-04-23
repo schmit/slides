@@ -1,0 +1,14 @@
+.reveal .header {
+  position: absolute;
+  font-size: 0.5em;
+  width: 100%;
+  text-align: right; }
+
+.reveal .footer {
+  position: absolute;
+  bottom: 10px;
+  font-size: 0.3em;
+  color: #666;
+  width: 100%;
+  margin-bottom: 1em;
+  text-align: center; }
